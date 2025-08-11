@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-11T18:32:28 IST" name="Suite" finished-at="2025-08-11T18:32:48 IST" duration-ms="19215">
+    <groups>
+    </groups>
+    <test started-at="2025-08-11T18:32:28 IST" name="Test" finished-at="2025-08-11T18:32:48 IST" duration-ms="19215">
+      <class name="mainPack.DragAndDropTest">
+        <test-method is-config="true" signature="setupReport()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:28 IST" name="setupReport" finished-at="2025-08-11T18:32:29 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupReport -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:29 IST" name="launchBrowser" finished-at="2025-08-11T18:32:32 IST" duration-ms="3322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mainPack.DragAndDropTest.drag3to1()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchpage()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:32 IST" name="launchpage" finished-at="2025-08-11T18:32:34 IST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpage -->
+        <test-method signature="drag3to1()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:34 IST" name="drag3to1" finished-at="2025-08-11T18:32:36 IST" duration-ms="2726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- drag3to1 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:36 IST" name="close" finished-at="2025-08-11T18:32:37 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:37 IST" name="launchBrowser" finished-at="2025-08-11T18:32:38 IST" duration-ms="1540" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mainPack.DragAndDropTest.dragAB()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchpage()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:38 IST" name="launchpage" finished-at="2025-08-11T18:32:40 IST" duration-ms="1487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpage -->
+        <test-method signature="dragAB()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:40 IST" name="dragAB" finished-at="2025-08-11T18:32:42 IST" duration-ms="1964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAB -->
+        <test-method is-config="true" signature="close()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:42 IST" name="close" finished-at="2025-08-11T18:32:42 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.reflect.Method)[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:42 IST" name="launchBrowser" finished-at="2025-08-11T18:32:44 IST" duration-ms="1874" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void mainPack.DragAndDropTest.flieup()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchpage()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:44 IST" name="launchpage" finished-at="2025-08-11T18:32:45 IST" duration-ms="1418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchpage -->
+        <test-method signature="flieup()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:45 IST" name="flieup" finished-at="2025-08-11T18:32:47 IST" duration-ms="1589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flieup -->
+        <test-method is-config="true" signature="close()[pri:0, instance:mainPack.DragAndDropTest@d9345cd]" started-at="2025-08-11T18:32:47 IST" name="close" finished-at="2025-08-11T18:32:48 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- mainPack.DragAndDropTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
